@@ -1,0 +1,564 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-name="America HD" tvg-logo="http://oaktvpro.club:8080/images/acf403bc8d9451e383fcef2cc5042710.png" group-title="PERU HD",America HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3402
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-name="AMERICA TV FHD" tvg-logo="http://oaktvpro.club:8080/images/acf403bc8d9451e383fcef2cc5042710.png" group-title="PERU HD",AMERICA TV FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3403
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-name="ATV HD" tvg-logo="http://oaktvpro.club:8080/images/0d918dfc4adcb80e48c9387e96bab7a0.png" group-title="PERU HD",ATV HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3404
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-name="ATV FHD" tvg-logo="http://oaktvpro.club:8080/images/0d918dfc4adcb80e48c9387e96bab7a0.png" group-title="PERU HD",ATV FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3405
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-name="ATV + HD" tvg-logo="http://oaktvpro.club:8080/images/1a89d52741edd578c815c3e364b15392.png" group-title="PERU HD",ATV + HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3406
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-name="Latina HD" tvg-logo="http://oaktvpro.club:8080/images/20f649a069f375a84d58441529ce7f40.png" group-title="PERU HD",Latina HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3407
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-name="Latina FHD" tvg-logo="http://oaktvpro.club:8080/images/20f649a069f375a84d58441529ce7f40.png" group-title="PERU HD",Latina FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3408
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-name="Canal N HD" tvg-logo="http://oaktvpro.club:8080/images/aebf6a5807925cc36c1ed4b30fa4ae1e.png" group-title="PERU HD",Canal N HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3409
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-name="Canal N FHD" tvg-logo="http://oaktvpro.club:8080/images/aebf6a5807925cc36c1ed4b30fa4ae1e.png" group-title="PERU HD",Canal N FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3410
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-name="Exitosa FHD" tvg-logo="http://oaktvpro.club:8080/images/bf7cc12ad34805544600cdb2e2120dfe.png" group-title="PERU HD",Exitosa FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3411
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-name="GLOBAL TV" tvg-logo="http://oaktvpro.club:8080/images/aa28119e9653a7b83f571a47ce456df0.png" group-title="PERU HD",GLOBAL TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3412
+#EXTINF:-1 tvg-id="Xconfirmar" tvg-name="KARIBEÑA TV" tvg-logo="http://oaktvpro.club:8080/images/ee265094914276b90a3043684ff3003a.png" group-title="PERU HD",KARIBEÑA TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3413
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-name="Panamericana HD" tvg-logo="http://oaktvpro.club:8080/images/444a24033e8d14a271ed5717b699f91a.png" group-title="PERU HD",Panamericana HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3414
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-name="PANAMERICANA FHD" tvg-logo="http://oaktvpro.club:8080/images/444a24033e8d14a271ed5717b699f91a.png" group-title="PERU HD",PANAMERICANA FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3415
+#EXTINF:-1 tvg-id="10mvstr.pe" tvg-name="RPP HD" tvg-logo="http://oaktvpro.club:8080/images/b2081555c1550ed58c1bac6552f99f40.png" group-title="PERU HD",RPP HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3416
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-name="Tv Peru" tvg-logo="http://oaktvpro.club:8080/images/50a7e416a9e6b48d7dd582b3caeed442.png" group-title="PERU HD",Tv Peru
+http://oaktvpro.club:8080/992879023/B2005CC1/3417
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-name="WILLAX HD" tvg-logo="http://oaktvpro.club:8080/images/f236d90490e6f058350d6d266f3053c5.png" group-title="PERU HD",WILLAX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3418
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-name="WILLAX FHD" tvg-logo="http://oaktvpro.club:8080/images/f236d90490e6f058350d6d266f3053c5.png" group-title="PERU HD",WILLAX FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3419
+#EXTINF:-1 tvg-id="" tvg-name="Nativa TV (HD)" tvg-logo="http://oaktvpro.club:8080/images/6c53406024d589e436b17c70cb72256a.png" group-title="PERU HD",Nativa TV (HD)
+http://oaktvpro.club:8080/992879023/B2005CC1/3420
+#EXTINF:-1 tvg-id="" tvg-name="Peru Magico" tvg-logo="http://oaktvpro.club:8080/images/6f32aee4040b69cce7c073cf086c19de.png" group-title="PERU HD",Peru Magico
+http://oaktvpro.club:8080/992879023/B2005CC1/3421
+#EXTINF:-1 tvg-id="" tvg-name="Peru Noticias" tvg-logo="http://oaktvpro.club:8080/images/778342869b678d59f32120cd4dc354e1.png" group-title="PERU HD",Peru Noticias
+http://oaktvpro.club:8080/992879023/B2005CC1/3422
+#EXTINF:-1 tvg-id="" tvg-name="ANTARES TV" tvg-logo="http://oaktvpro.club:8080/images/807bdb180c2c98bb1aba516bb5b82721.png" group-title="PERU HD",ANTARES TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3423
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ipe" tvg-logo="http://oaktvpro.club:8080/images/8a6d71000b0bb865a99d4539ba34be71.png" group-title="PERU HD",Canal Ipe
+http://oaktvpro.club:8080/992879023/B2005CC1/3424
+#EXTINF:-1 tvg-id="" tvg-name="FUEGO  TV" tvg-logo="https://fuegotv.com.pe/wp-content/uploads/2023/02/LOGO-EN-FORMA-HORIZONTAL.png" group-title="PERU HD",FUEGO  TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3425
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV Jaén" tvg-logo="http://oaktvpro.club:8080/images/28b14fd9f449a3d8028c2194b099e20a.png" group-title="PERU HD",Mega TV Jaén
+http://oaktvpro.club:8080/992879023/B2005CC1/3426
+#EXTINF:-1 tvg-id="" tvg-name="BH TV" tvg-logo="http://oaktvpro.club:8080/images/33366d7a6884db02cf929a3abfea788d.png" group-title="PERU HD",BH TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3427
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA 24  TV" tvg-logo="http://oaktvpro.club:8080/images/0a796f78ff6bcb9e528d618ca6d7cbc7.png" group-title="PERU HD",CULTURA 24  TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3428
+#EXTINF:-1 tvg-id="" tvg-name="Ok TeVe HD" tvg-logo="http://oaktvpro.club:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="PERU HD",Ok TeVe HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3430
+#EXTINF:-1 tvg-id="" tvg-name="Prueb" tvg-logo="noimage.png" group-title="PERU HD",Prueb
+http://oaktvpro.club:8080/992879023/B2005CC1/3431
+#EXTINF:-1 tvg-id="10mvstr.pe" tvg-name="RPP FHD" tvg-logo="http://oaktvpro.club:8080/images/b2081555c1550ed58c1bac6552f99f40.png" group-title="PERU HD",RPP FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/86097
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV SUR HD" tvg-logo="http://oaktvpro.club:8080/images/58e268abaf0701a8680e4fda5c4d3c5f.png" group-title="PERU HD",ATV SUR HD
+http://oaktvpro.club:8080/992879023/B2005CC1/92881
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-name="Exitosa HD" tvg-logo="http://oaktvpro.club:8080/images/bf7cc12ad34805544600cdb2e2120dfe.png" group-title="PERU HD",Exitosa HD
+http://oaktvpro.club:8080/992879023/B2005CC1/116454
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-name="ATV + FHD" tvg-logo="http://oaktvpro.club:8080/images/1a89d52741edd578c815c3e364b15392.png" group-title="PERU HD",ATV + FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/127829
+#EXTINF:-1 tvg-id="" tvg-name="CONETA 2TV HD" tvg-logo="https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/320511858_449433397213335_786802582609090066_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGfmfbRJRQc0-SuLlv4vPAj10aL6pQWeGDXRovqlBZ4YI0i4a35BlrweG7_Q-zOMxC_AN3qqq55f368rlgpmLHV&_nc_ohc=wuHR9jwFCWIAX9swOZ1&_nc_ht=scontent.flim38-1.fna&oh=00_AfCwVe-Rym2EcOWsAjyBc4Jd4G60TPZiOI1GAVymEVqgbg&oe=650BACB1" group-title="PERU HD",CONETA 2TV HD
+http://oaktvpro.club:8080/992879023/B2005CC1/126603
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-name="America SD" tvg-logo="http://oaktvpro.club:8080/images/acf403bc8d9451e383fcef2cc5042710.png" group-title="PERU SD",America SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47742
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-name="ATV SD" tvg-logo="http://oaktv.pro:8080/images/0d918dfc4adcb80e48c9387e96bab7a0.png" group-title="PERU SD",ATV SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47743
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-name="Canal N SD" tvg-logo="http://oaktvpro.club:8080/images/aebf6a5807925cc36c1ed4b30fa4ae1e.png" group-title="PERU SD",Canal N SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47744
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-name="Latina SD" tvg-logo="http://oaktvpro.club:8080/images/20f649a069f375a84d58441529ce7f40.png" group-title="PERU SD",Latina SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47745
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-name="PANAMERICANA SD" tvg-logo="http://oaktvpro.club:8080/images/444a24033e8d14a271ed5717b699f91a.png" group-title="PERU SD",PANAMERICANA SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47746
+#EXTINF:-1 tvg-id="10mvstr.pe" tvg-name="RPP SD" tvg-logo="http://oaktv.pro:8080/images/b2081555c1550ed58c1bac6552f99f40.png" group-title="PERU SD",RPP SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47747
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-name="WILLAX SD" tvg-logo="http://oaktv.pro:8080/images/f236d90490e6f058350d6d266f3053c5.png" group-title="PERU SD",WILLAX SD
+http://oaktvpro.club:8080/992879023/B2005CC1/47756
+
+
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU HD" tvg-logo="http://oaktvpro.club:8080/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES PERU HD",GOL PERU HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3434
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU FHD" tvg-logo="http://oaktvpro.club:8080/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES PERU HD",GOL PERU FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3435
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU 4K (PRUEBAS)" tvg-logo="http://oaktvpro.club:8080/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES PERU HD",GOL PERU 4K (PRUEBAS)
+http://oaktvpro.club:8080/992879023/B2005CC1/3436
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU SD" tvg-logo="http://oaktvpro.club:8080/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES PERU HD",GOL PERU SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3437
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU HD OPC 2" tvg-logo="http://oaktvpro.club:8080/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES PERU HD",GOL PERU HD OPC 2
+http://oaktvpro.club:8080/992879023/B2005CC1/3438
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX HD" tvg-logo="http://oaktvpro.club:8080/images/e01a5d2237bccce3b1cbd07e4f64355a.png" group-title="DEPORTES PERU HD",LIGA 1 MAX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3494
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX SD" tvg-logo="http://oaktvpro.club:8080/images/2652a27ac7ff5435d49375e2964356b5.png" group-title="DEPORTES PERU HD",LIGA 1 MAX SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3440
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX FHD" tvg-logo="http://oaktvpro.club:8080/images/10109fe73fc286d2aa5a1c18f6a92c96.png" group-title="DEPORTES PERU HD",LIGA 1 MAX FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3439
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX 4K PRUEBAS" tvg-logo="http://oaktvpro.club:8080/images/10109fe73fc286d2aa5a1c18f6a92c96.png" group-title="DEPORTES PERU HD",LIGA 1 MAX 4K PRUEBAS
+http://oaktvpro.club:8080/992879023/B2005CC1/3441
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX OPC 2" tvg-logo="http://oaktv.pro:8080/images/e01a5d2237bccce3b1cbd07e4f64355a.png" group-title="DEPORTES PERU HD",LIGA 1 MAX OPC 2
+http://oaktvpro.club:8080/992879023/B2005CC1/3442
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-name="LIGA 1 FHD" tvg-logo="http://oaktvpro.club:8080/images/cbf08c61183aa498eb776e5a324af1b6.png" group-title="DEPORTES PERU HD",LIGA 1 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/132110
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-name="LIGA 1 HD " tvg-logo="http://oaktvpro.club:8080/images/cbf08c61183aa498eb776e5a324af1b6.png" group-title="DEPORTES PERU HD",LIGA 1 HD 
+http://oaktvpro.club:8080/992879023/B2005CC1/132109
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-name="LIGA 1 SD" tvg-logo="http://oaktvpro.club:8080/images/cbf08c61183aa498eb776e5a324af1b6.png" group-title="DEPORTES PERU HD",LIGA 1 SD
+http://oaktvpro.club:8080/992879023/B2005CC1/132107
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-name="LIGA 1 opc2" tvg-logo="http://oaktvpro.club:8080/images/cbf08c61183aa498eb776e5a324af1b6.png" group-title="DEPORTES PERU HD",LIGA 1 opc2
+http://oaktvpro.club:8080/992879023/B2005CC1/3443
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-name="ESPN 1 HD" tvg-logo="http://oaktvpro.club:8080/images/15931443e63b0ebc2944ba0a77ae7334.png" group-title="DEPORTES PERU HD",ESPN 1 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3444
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-name="ESPN 1 FHD" tvg-logo="http://oaktvpro.club:8080/images/15931443e63b0ebc2944ba0a77ae7334.png" group-title="DEPORTES PERU HD",ESPN 1 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3445
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-name="ESPN 1 SD" tvg-logo="http://oaktv.pro:8080/images/15931443e63b0ebc2944ba0a77ae7334.png" group-title="DEPORTES PERU HD",ESPN 1 SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3446
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-name="ESPN 1 4K (PRUEBAS)" tvg-logo="http://oaktv.pro:8080/images/15931443e63b0ebc2944ba0a77ae7334.png" group-title="DEPORTES PERU HD",ESPN 1 4K (PRUEBAS)
+http://oaktvpro.club:8080/992879023/B2005CC1/3447
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-name="ESPN 1 HD OPC 2" tvg-logo="http://oaktv.pro:8080/images/15931443e63b0ebc2944ba0a77ae7334.png" group-title="DEPORTES PERU HD",ESPN 1 HD OPC 2
+http://oaktvpro.club:8080/992879023/B2005CC1/3448
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-name="ESPN 2 HD" tvg-logo="http://oaktvpro.club:8080/images/64d81afad01d947fa662c4ad88da3069.png" group-title="DEPORTES PERU HD",ESPN 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3449
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-name="ESPN 2 FHD" tvg-logo="http://oaktvpro.club:8080/images/64d81afad01d947fa662c4ad88da3069.png" group-title="DEPORTES PERU HD",ESPN 2 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3450
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-name="ESPN 2 SD" tvg-logo="http://oaktvpro.club:8080/images/64d81afad01d947fa662c4ad88da3069.png" group-title="DEPORTES PERU HD",ESPN 2 SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3451
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-name="ESPN 2 HD OPC 2" tvg-logo="http://oaktvpro.club:8080/images/64d81afad01d947fa662c4ad88da3069.png" group-title="DEPORTES PERU HD",ESPN 2 HD OPC 2
+http://oaktvpro.club:8080/992879023/B2005CC1/3452
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 HD" tvg-logo="http://oaktvpro.club:8080/images/db858e9344f9477d8f5d1ea1f841f969.png" group-title="DEPORTES PERU HD",ESPN 3 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3453
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 FHD" tvg-logo="http://oaktvpro.club:8080/images/db858e9344f9477d8f5d1ea1f841f969.png" group-title="DEPORTES PERU HD",ESPN 3 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3454
+#EXTINF:-1 tvg-id="624dtv.co" tvg-name="ESPN 4 HD" tvg-logo="http://oaktvpro.club:8080/images/34f95d13c1e11ea21b0bf5d2c2adcd3a.png" group-title="DEPORTES PERU HD",ESPN 4 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3455
+#EXTINF:-1 tvg-id="624dtv.co" tvg-name="ESPN 4 FHD" tvg-logo="http://oaktvpro.club:8080/images/34f95d13c1e11ea21b0bf5d2c2adcd3a.png" group-title="DEPORTES PERU HD",ESPN 4 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3456
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN EXTRA HD" tvg-logo="http://oaktv.pro:8080/images/c1319eeb2adb9d2ab8dcc2ce9c697eb4.png" group-title="DEPORTES PERU HD",ESPN EXTRA HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3457
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="ESPN EXTRA FHD" tvg-logo="http://oaktv.pro:8080/images/c1319eeb2adb9d2ab8dcc2ce9c697eb4.png" group-title="DEPORTES PERU HD",ESPN EXTRA FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3458
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://oaktv.pro:8080/images/5560ebd75c3915a36d19bcd28c234c43.png" group-title="DEPORTES PERU HD",FOX SPORTS 2 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3459
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://oaktv.pro:8080/images/5560ebd75c3915a36d19bcd28c234c43.png" group-title="DEPORTES PERU HD",FOX SPORTS 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3460
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://oaktvpro.club:8080/images/5560ebd75c3915a36d19bcd28c234c43.png" group-title="DEPORTES PERU HD",FOX SPORTS 2 SD
+http://oaktvpro.club:8080/992879023/B2005CC1/116995
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://oaktvpro.club:8080/images/4057886b3a7eff79e2089dba35f95b1e.png" group-title="DEPORTES PERU HD",FOX SPORTS 3 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3461
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="FOX SPORTS 3 FHD" tvg-logo="http://oaktvpro.club:8080/images/4057886b3a7eff79e2089dba35f95b1e.png" group-title="DEPORTES PERU HD",FOX SPORTS 3 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/117008
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-name="MOVISTAR DEPORTES HD" tvg-logo="http://oaktvpro.club:8080/images/e1d05574e24bd19e122780a60710ce2e.png" group-title="DEPORTES PERU HD",MOVISTAR DEPORTES HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3462
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="http://oaktvpro.club:8080/images/e1d05574e24bd19e122780a60710ce2e.png" group-title="DEPORTES PERU HD",MOVISTAR DEPORTES FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3463
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-name="MOVISTAR DEPORTES SD" tvg-logo="http://oaktvpro.club:8080/images/e1d05574e24bd19e122780a60710ce2e.png" group-title="DEPORTES PERU HD",MOVISTAR DEPORTES SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3464
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-name="MOVISTAR PLUS HD" tvg-logo="http://oaktvpro.club:8080/images/a3bd489845af6655e809d9f58488b19e.png" group-title="DEPORTES PERU HD",MOVISTAR PLUS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3477
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-name="MOVISTAR PLUS FHD" tvg-logo="http://oaktvpro.club:8080/images/a3bd489845af6655e809d9f58488b19e.png" group-title="DEPORTES PERU HD",MOVISTAR PLUS FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/126535
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="D Sports PERU HD" tvg-logo="http://oaktv.pro:8080/images/eb77a44d80338ce0ccbe364c0cbbf713.png" group-title="DEPORTES PERU HD",D Sports PERU HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3468
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="D Sports PERU FHD" tvg-logo="http://oaktv.pro:8080/images/5ceda5feecefb51d3a877841526b3ab8.png" group-title="DEPORTES PERU HD",D Sports PERU FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3469
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="D Sports PERU 4K (PRUEBAS)" tvg-logo="http://oaktv.pro:8080/images/f8e4205337da00e8f14280fd623252d8.png" group-title="DEPORTES PERU HD",D Sports PERU 4K (PRUEBAS)
+http://oaktvpro.club:8080/992879023/B2005CC1/3470
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="D Sports PERU SD" tvg-logo="http://oaktv.pro:8080/images/f8e4205337da00e8f14280fd623252d8.png" group-title="DEPORTES PERU HD",D Sports PERU SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3471
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="D SPORTS 2 HD " tvg-logo="http://oaktvpro.club:8080/images/176ad1a3f1b11fc7c03d2a182a98c91a.png" group-title="DEPORTES PERU HD",D SPORTS 2 HD 
+http://oaktvpro.club:8080/992879023/B2005CC1/132104
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="DSPORTS 2 FHD " tvg-logo="http://oaktvpro.club:8080/images/176ad1a3f1b11fc7c03d2a182a98c91a.png" group-title="DEPORTES PERU HD",DSPORTS 2 FHD 
+http://oaktvpro.club:8080/992879023/B2005CC1/132103
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="D SPORTS 2 SD" tvg-logo="http://oaktvpro.club:8080/images/176ad1a3f1b11fc7c03d2a182a98c91a.png" group-title="DEPORTES PERU HD",D SPORTS 2 SD
+http://oaktvpro.club:8080/992879023/B2005CC1/132108
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="D SPORTS+ HD" tvg-logo="http://oaktv.pro:8080/images/d405415b6aad35c40dc9c48dde640dcf.png" group-title="DEPORTES PERU HD",D SPORTS+ HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3472
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="D SPORTS+ FHD" tvg-logo="http://oaktv.pro:8080/images/91382ec689c1c55020d1fab8a9791f2d.png" group-title="DEPORTES PERU HD",D SPORTS+ FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3473
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="D SPORTS+ SD" tvg-logo="http://oaktv.pro:8080/images/d3e1dc2f9e10a93b2f53a9f860e60f46.png" group-title="DEPORTES PERU HD",D SPORTS+ SD
+http://oaktvpro.club:8080/992879023/B2005CC1/3474
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC SPORTS HD" tvg-logo="http://oaktvpro.club:8080/images/aea10b442b97eeefcaf68e03a30dda1f.png" group-title="DEPORTES PERU HD",TyC SPORTS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/132100
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC SPORTS SD" tvg-logo="http://oaktvpro.club:8080/images/aea10b442b97eeefcaf68e03a30dda1f.png" group-title="DEPORTES PERU HD",TyC SPORTS SD
+http://oaktvpro.club:8080/992879023/B2005CC1/132106
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC SPORTS FHD" tvg-logo="http://oaktvpro.club:8080/images/aea10b442b97eeefcaf68e03a30dda1f.png" group-title="DEPORTES PERU HD",TyC SPORTS FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/132099
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-name="702 LATINA" tvg-logo="http://oaktvpro.club:8080/images/20f649a069f375a84d58441529ce7f40.png" group-title="CANALES FAVORITOS PERU",702 LATINA
+http://oaktvpro.club:8080/992879023/B2005CC1/3345
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-name="703 MOVISTAR DEPORTES HD" tvg-logo="http://oaktvpro.club:8080/images/e1d05574e24bd19e122780a60710ce2e.png" group-title="CANALES FAVORITOS PERU",703 MOVISTAR DEPORTES HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3346
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-name="704 America HD" tvg-logo="http://oaktvpro.club:8080/images/acf403bc8d9451e383fcef2cc5042710.png" group-title="CANALES FAVORITOS PERU",704 America HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3347
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-name="705 Panamericana HD" tvg-logo="http://oaktvpro.club:8080/images/444a24033e8d14a271ed5717b699f91a.png" group-title="CANALES FAVORITOS PERU",705 Panamericana HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3348
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-name="706 MOVISTAR PLUS" tvg-logo="http://oaktvpro.club:8080/images/a3bd489845af6655e809d9f58488b19e.png" group-title="CANALES FAVORITOS PERU",706 MOVISTAR PLUS
+http://oaktvpro.club:8080/992879023/B2005CC1/3349
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-name="707 Tv Peru" tvg-logo="http://oaktvpro.club:8080/images/50a7e416a9e6b48d7dd582b3caeed442.png" group-title="CANALES FAVORITOS PERU",707 Tv Peru
+http://oaktvpro.club:8080/992879023/B2005CC1/3350
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-name="708 Canal N HD" tvg-logo="http://oaktvpro.club:8080/images/aebf6a5807925cc36c1ed4b30fa4ae1e.png" group-title="CANALES FAVORITOS PERU",708 Canal N HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3351
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-name="709 ATV HD" tvg-logo="http://oaktvpro.club:8080/images/0d918dfc4adcb80e48c9387e96bab7a0.png" group-title="CANALES FAVORITOS PERU",709 ATV HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3352
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="710 LIGA 1 MAX HD" tvg-logo="http://oaktvpro.club:8080/images/e01a5d2237bccce3b1cbd07e4f64355a.png" group-title="CANALES FAVORITOS PERU",710 LIGA 1 MAX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3353
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="711 D Sports PERU HD" tvg-logo="http://oaktvpro.club:8080/images/eb77a44d80338ce0ccbe364c0cbbf713.png" group-title="CANALES FAVORITOS PERU",711 D Sports PERU HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3354
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="712 D SPORTS+ HD" tvg-logo="http://oaktvpro.club:8080/images/d405415b6aad35c40dc9c48dde640dcf.png" group-title="CANALES FAVORITOS PERU",712 D SPORTS+ HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3355
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="713 GLOBAL TV" tvg-logo="http://oaktvpro.club:8080/images/aa28119e9653a7b83f571a47ce456df0.png" group-title="CANALES FAVORITOS PERU",713 GLOBAL TV
+http://oaktvpro.club:8080/992879023/B2005CC1/3356
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="714 Gol Perú HD" tvg-logo="http://oaktvpro.club:8080/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="CANALES FAVORITOS PERU",714 Gol Perú HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3357
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-name="716 WILLAX HD" tvg-logo="http://oaktvpro.club:8080/images/f236d90490e6f058350d6d266f3053c5.png" group-title="CANALES FAVORITOS PERU",716 WILLAX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3358
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="728 Pasiones HD" tvg-logo="http://oaktvpro.club:8080/images/2f54ed9863117bbf0cba4fecc330bf6e.png" group-title="CANALES FAVORITOS PERU",728 Pasiones HD
+http://oaktvpro.club:8080/992879023/B2005CC1/126538
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="723 TL NOVELAS HD" tvg-logo="http://oaktvpro.club:8080/images/2a3ff3186859e7f0673594eefa53e14e.png" group-title="CANALES FAVORITOS PERU",723 TL NOVELAS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/126543
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="724 LAS ESTRELLAS HD" tvg-logo="http://oaktvpro.club:8080/images/b15c919ea2656eb10414e6e6001d61e1.png" group-title="CANALES FAVORITOS PERU",724 LAS ESTRELLAS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/126542
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="725 TNT NOVELAS HD" tvg-logo="http://oaktvpro.club:8080/images/31b81693316581e910f368819ab1ea3b.png" group-title="CANALES FAVORITOS PERU",725 TNT NOVELAS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/126541
+#EXTINF:-1 tvg-id="892mvstr.cl" tvg-name="726 KANAL D DRAMA" tvg-logo="http://oaktvpro.club:8080/images/46536c53b4ab771a2acc2eb502fb1a44.png" group-title="CANALES FAVORITOS PERU",726 KANAL D DRAMA
+http://oaktvpro.club:8080/992879023/B2005CC1/3383
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-name="732 ATV + HD" tvg-logo="http://oaktvpro.club:8080/images/1a89d52741edd578c815c3e364b15392.png" group-title="CANALES FAVORITOS PERU",732 ATV + HD
+http://oaktvpro.club:8080/992879023/B2005CC1/127873
+#EXTINF:-1 tvg-id="Az Cine" tvg-name="734 AZ Cinema" tvg-logo="http://oaktvpro.club:8080/images/bfaeba2d256a1bbf7085052d8376d7e3.png" group-title="CANALES FAVORITOS PERU",734 AZ Cinema
+http://oaktvpro.club:8080/992879023/B2005CC1/3367
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-name="734 Exitosa HD" tvg-logo="http://oaktvpro.club:8080/images/bf7cc12ad34805544600cdb2e2120dfe.png" group-title="CANALES FAVORITOS PERU",734 Exitosa HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3394
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="740 TNT HD" tvg-logo="http://oaktvpro.club:8080/images/dfb77b3e4bb2bc5b9dae20b1bd1737d8.png" group-title="CANALES FAVORITOS PERU",740 TNT HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3365
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="741 TNT SERIES HD" tvg-logo="http://oaktvpro.club:8080/images/1118c32cb70f8fb2f56b87c106d6f055.png" group-title="CANALES FAVORITOS PERU",741 TNT SERIES HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3364
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="742 AMC HD" tvg-logo="http://oaktvpro.club:8080/images/70b4a136794524fabbb978d8375e17ba.png" group-title="CANALES FAVORITOS PERU",742 AMC HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3361
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="743 WARNER HD" tvg-logo="http://oaktvpro.club:8080/images/8fef9c51c148c2bda0b9c7e64d6e6e7e.png" group-title="CANALES FAVORITOS PERU",743 WARNER HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3360
+#EXTINF:-1 tvg-id="204dtv.ar" tvg-name="744 STAR CHANNEL  HD" tvg-logo="http://oaktvpro.club:8080/images/0f0c2eee1f2c9c9a7c4f4e6ce39601b4.png" group-title="CANALES FAVORITOS PERU",744 STAR CHANNEL  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3359
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="745 FX HD" tvg-logo="http://oaktvpro.club:8080/images/73acdada6f0e3313ef4c8c87e37626ed.png" group-title="CANALES FAVORITOS PERU",745 FX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3362
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="746 Discovery Investigation HD" tvg-logo="http://oaktvpro.club:8080/images/851c01e7cad1fec0753ea76bf3be535c.png" group-title="CANALES FAVORITOS PERU",746 Discovery Investigation HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3363
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="750 SPACE CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/823256fe15fe6cba8860afa9e0b78c0b.png" group-title="CANALES FAVORITOS PERU",750 SPACE CHANEL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3366
+#EXTINF:-1 tvg-id="232dtv.cl" tvg-name="7511 EL GOURMET" tvg-logo="http://oaktvpro.club:8080/images/969f3538767ddd4ae5b6419fcbd39b01.png" group-title="CANALES FAVORITOS PERU",7511 EL GOURMET
+http://oaktvpro.club:8080/992879023/B2005CC1/3380
+#EXTINF:-1 tvg-id="510dtv.cl" tvg-name="751 PARAMOUNT CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/a8ac3ece61bd0e9996fc1530c6793009.png" group-title="CANALES FAVORITOS PERU",751 PARAMOUNT CHANEL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3368
+#EXTINF:-1 tvg-id="Cinecanal.Ar" tvg-name="754 CINECANAL HD" tvg-logo="http://oaktvpro.club:8080/images/53b26630dc813b344a6436fb7847bf37.png" group-title="CANALES FAVORITOS PERU",754 CINECANAL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3369
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="755 ANIMAL Planet HD" tvg-logo="http://oaktvpro.club:8080/images/444083b3edf2d96086ea26fd583cd366.png" group-title="CANALES FAVORITOS PERU",755 ANIMAL Planet HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3382
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="755 Comedy Central HD" tvg-logo="http://oaktvpro.club:8080/images/0b2b4d3db3cefe7dbcec5e015a284166.png" group-title="CANALES FAVORITOS PERU",755 Comedy Central HD
+http://oaktvpro.club:8080/992879023/B2005CC1/131867
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="756 CINEMAX HD" tvg-logo="http://oaktvpro.club:8080/images/2a9478172db521521ff10ad53f3c3bbd.png" group-title="CANALES FAVORITOS PERU",756 CINEMAX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3370
+#EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="759 DISCOVERY World HD" tvg-logo="http://oaktvpro.club:8080/images/960f86c94a7c89c9a0f39725bc5571f0.png" group-title="CANALES FAVORITOS PERU",759 DISCOVERY World HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3384
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-name="760 Discovery Channel HD" tvg-logo="http://oaktvpro.club:8080/images/567be101797359d575fb482648ec3d2f.png" group-title="CANALES FAVORITOS PERU",760 Discovery Channel HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3379
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="762 NATIONAL Geographic HD" tvg-logo="http://oaktvpro.club:8080/images/70ea0a456f4a91358d81255769e87275.png" group-title="CANALES FAVORITOS PERU",762 NATIONAL Geographic HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3381
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="766 DISCOVERY THEATER HD" tvg-logo="http://oaktvpro.club:8080/images/71b601a11b0724b0b6dee751b0432ace.png" group-title="CANALES FAVORITOS PERU",766 DISCOVERY THEATER HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3378
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-name="771 Discovery Home & Health HD" tvg-logo="http://oaktvpro.club:8080/images/ae2de9e98561ec3266cd698007939992.png" group-title="CANALES FAVORITOS PERU",771 Discovery Home & Health HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3385
+#EXTINF:-1 tvg-id="ipe.pe" tvg-name="772 Canal Ipe" tvg-logo="http://oaktvpro.club:8080/images/8a6d71000b0bb865a99d4539ba34be71.png" group-title="CANALES FAVORITOS PERU",772 Canal Ipe
+http://oaktvpro.club:8080/992879023/B2005CC1/3393
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="774 HGTV HD" tvg-logo="http://oaktvpro.club:8080/images/5c304d3299716b1dd73f5ab7d8fc8833.png" group-title="CANALES FAVORITOS PERU",774 HGTV HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3386
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="778 CARTOON NETWORK HD" tvg-logo="http://oaktvpro.club:8080/images/1f7ea8c59d2467f7f541ceaf670c7df3.png" group-title="CANALES FAVORITOS PERU",778 CARTOON NETWORK HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3388
+#EXTINF:-1 tvg-id="330dtv.co" tvg-name="779 DISCOVERY KIDS  HD" tvg-logo="http://oaktvpro.club:8080/images/6c8463be5d69521692c3f7f0de6123dc.png" group-title="CANALES FAVORITOS PERU",779 DISCOVERY KIDS  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3387
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="780 CARTOONITO" tvg-logo="http://oaktvpro.club:8080/images/a5559c91265601b6d3f6096151a6fbb3.png" group-title="CANALES FAVORITOS PERU",780 CARTOONITO
+http://oaktvpro.club:8080/992879023/B2005CC1/3392
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="781 NICKELODEON HD" tvg-logo="http://oaktvpro.club:8080/images/39c7df4ac1f024c0585a2b00a80e3001.png" group-title="CANALES FAVORITOS PERU",781 NICKELODEON HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3390
+#EXTINF:-1 tvg-id="314dtv.co" tvg-name="782 DISNEY CHANNEL HD" tvg-logo="http://oaktvpro.club:8080/images/6a74e145e925143f663b410f9f1a756c.png" group-title="CANALES FAVORITOS PERU",782 DISNEY CHANNEL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3389
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="783 DISNEY JR HD" tvg-logo="http://oaktvpro.club:8080/images/843ab947cb4d3ccfc498dae43a9df626.png" group-title="CANALES FAVORITOS PERU",783 DISNEY JR HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3391
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-name="784 ESPN 1 HD" tvg-logo="http://oaktvpro.club:8080/images/15931443e63b0ebc2944ba0a77ae7334.png" group-title="CANALES FAVORITOS PERU",784 ESPN 1 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3371
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-name="785 ESPN 2 HD" tvg-logo="http://oaktvpro.club:8080/images/64d81afad01d947fa662c4ad88da3069.png" group-title="CANALES FAVORITOS PERU",785 ESPN 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3372
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="786 ESPN 3 HD" tvg-logo="http://oaktvpro.club:8080/images/db858e9344f9477d8f5d1ea1f841f969.png" group-title="CANALES FAVORITOS PERU",786 ESPN 3 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3373
+#EXTINF:-1 tvg-id="624dtv.co" tvg-name="787 ESPN 4 HD" tvg-logo="http://oaktvpro.club:8080/images/34f95d13c1e11ea21b0bf5d2c2adcd3a.png" group-title="CANALES FAVORITOS PERU",787 ESPN 4 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3374
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-name="788 ESPN EXTRA HD" tvg-logo="http://oaktvpro.club:8080/images/c1319eeb2adb9d2ab8dcc2ce9c697eb4.png" group-title="CANALES FAVORITOS PERU",788 ESPN EXTRA HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3375
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="789 Fox Sports 2 HD" tvg-logo="http://oaktvpro.club:8080/images/5560ebd75c3915a36d19bcd28c234c43.png" group-title="CANALES FAVORITOS PERU",789 Fox Sports 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3376
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="790 FOX SPORTS 3 HD" tvg-logo="http://oaktvpro.club:8080/images/4057886b3a7eff79e2089dba35f95b1e.png" group-title="CANALES FAVORITOS PERU",790 FOX SPORTS 3 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3377
+#EXTINF:-1 tvg-id="" tvg-name="795 CNN En Español HD" tvg-logo="http://oaktvpro.club:8080/images/d3d2d68a8715c04c1cfbb07fa863a8b1.png" group-title="CANALES FAVORITOS PERU",795 CNN En Español HD
+http://oaktvpro.club:8080/992879023/B2005CC1/132028
+#EXTINF:-1 tvg-id="hbo.Lat" tvg-name="830 HBO HD" tvg-logo="http://oaktvpro.club:8080/images/5017405d9545062577e4d27a331940ba.png" group-title="CANALES FAVORITOS PERU",830 HBO HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3396
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="832 HBO SIGNATURE  HD" tvg-logo="http://oaktvpro.club:8080/images/c9b21fa91159e2b7d641afed20f7d80e.png" group-title="CANALES FAVORITOS PERU",832 HBO SIGNATURE  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3395
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="836 HBO POP HD" tvg-logo="http://oaktvpro.club:8080/images/56bc1518eccca8948744bc91945295bd.png" group-title="CANALES FAVORITOS PERU",836 HBO POP HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3397
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="838 HBO Xtreme" tvg-logo="http://oaktvpro.club:8080/images/02dc00716b630144e6913f015f3ab044.png" group-title="CANALES FAVORITOS PERU",838 HBO Xtreme
+http://oaktvpro.club:8080/992879023/B2005CC1/3399
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="840 HBO 2 HD" tvg-logo="http://oaktvpro.club:8080/images/1698b33f46641162b8c6678e668fb36d.png" group-title="CANALES FAVORITOS PERU",840 HBO 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3400
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="842 HBO FAMILY HD" tvg-logo="http://oaktvpro.club:8080/images/2853bbda26601aacbefb042b066493fb.png" group-title="CANALES FAVORITOS PERU",842 HBO FAMILY HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3398
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="844 HBO PLUS HD" tvg-logo="http://oaktvpro.club:8080/images/731efb30a83f849b9fa1fee910750ba1.png" group-title="CANALES FAVORITOS PERU",844 HBO PLUS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3401
+#EXTINF:-1 tvg-id="220dtv.cl" tvg-name="749 TRUTV" tvg-logo="http://oaktvpro.club:8080/images/f9b97b34fcb83374a1401564b6666925.png" group-title="CANALES FAVORITOS PERU",749 TRUTV
+http://oaktvpro.club:8080/992879023/B2005CC1/133019
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="780 CARTOONITO" tvg-logo="http://oaktvpro.club:8080/images/a5559c91265601b6d3f6096151a6fbb3.png" group-title="CANALES FAVORITOS PERU",780 CARTOONITO
+http://oaktvpro.club:8080/992879023/B2005CC1/133020
+#EXTINF:-1 tvg-id="Xconfirmar" tvg-name="736 Nativa TV (HD)" tvg-logo="http://oaktvpro.club:8080/images/6c53406024d589e436b17c70cb72256a.png" group-title="CANALES FAVORITOS PERU",736 Nativa TV (HD)
+http://oaktvpro.club:8080/992879023/B2005CC1/133021
+
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E HD" tvg-logo="http://oaktvpro.club:8080/images/4e7f2be55d9b2289d08db4dcfc75622e.png" group-title="CINE PREMIUM",A&E HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3495
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC HD" tvg-logo="http://oaktvpro.club:8080/images/70b4a136794524fabbb978d8375e17ba.png" group-title="CINE PREMIUM",AMC HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3496
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC FHD" tvg-logo="http://oaktvpro.club:8080/images/70b4a136794524fabbb978d8375e17ba.png" group-title="CINE PREMIUM",AMC FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/97571
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN HD" tvg-logo="http://oaktvpro.club:8080/images/cb28c68af5d67d82913bd85478b149e8.png" group-title="CINE PREMIUM",AXN HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3497
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="CINE LATINO" tvg-logo="http://oaktvpro.club:8080/images/c0b6550f7b85955679a33a8f3834e269.png" group-title="CINE PREMIUM",CINE LATINO
+http://oaktvpro.club:8080/992879023/B2005CC1/3499
+#EXTINF:-1 tvg-id="Cinecanal.Ar" tvg-name="CINECANAL HD" tvg-logo="http://oaktvpro.club:8080/images/53b26630dc813b344a6436fb7847bf37.png" group-title="CINE PREMIUM",CINECANAL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3500
+#EXTINF:-1 tvg-id="Cinecanal.Ar" tvg-name="CINECANAL FHD" tvg-logo="http://oaktvpro.club:8080/images/53b26630dc813b344a6436fb7847bf37.png" group-title="CINE PREMIUM",CINECANAL FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3539
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="CINEMAX HD" tvg-logo="http://oaktvpro.club:8080/images/2a9478172db521521ff10ad53f3c3bbd.png" group-title="CINE PREMIUM",CINEMAX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3501
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="CINEMAX FHD" tvg-logo="http://oaktvpro.club:8080/images/2a9478172db521521ff10ad53f3c3bbd.png" group-title="CINE PREMIUM",CINEMAX FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3538
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="DHE" tvg-logo="http://oaktvpro.club:8080/images/622f5006cc936a3aa98572f5f5c4b5a4.png" group-title="CINE PREMIUM",DHE
+http://oaktvpro.club:8080/992879023/B2005CC1/3502
+#EXTINF:-1 tvg-id="1515dtv.cl" tvg-name="Europa europa" tvg-logo="http://oaktvpro.club:8080/images/79b2cec988931bf7ab489729fe2f52fd.jpg" group-title="CINE PREMIUM",Europa europa
+http://oaktvpro.club:8080/992879023/B2005CC1/3503
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX HD" tvg-logo="http://oaktvpro.club:8080/images/73acdada6f0e3313ef4c8c87e37626ed.png" group-title="CINE PREMIUM",FX HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3504
+#EXTINF:-1 tvg-id="Xconfirmar" tvg-name="FXM FHD" tvg-logo="http://oaktvpro.club:8080/images/5f2b3c7d2ba7f468d7530b75852f2150.png" group-title="CINE PREMIUM",FXM FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3505
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="GOLDEN EDG HD" tvg-logo="http://oaktvpro.club:8080/images/425a6dcdf714a52d48ac9f4d57a73d43.png" group-title="CINE PREMIUM",GOLDEN EDG HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3507
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="GOLDEN HD" tvg-logo="http://oaktvpro.club:8080/images/425a6dcdf714a52d48ac9f4d57a73d43.png" group-title="CINE PREMIUM",GOLDEN HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3506
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="GOLDEN PLUS HD" tvg-logo="http://oaktvpro.club:8080/images/2738a04dc88c8b0031a8cff0932d65e4.png" group-title="CINE PREMIUM",GOLDEN PLUS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3508
+#EXTINF:-1 tvg-id="GoldePrm2" tvg-name="GOLDEN PREMIER 2 HD" tvg-logo="http://oaktvpro.club:8080/images/4f48eac065eaae5b5cb8893a2fca9661.png" group-title="CINE PREMIUM",GOLDEN PREMIER 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3510
+#EXTINF:-1 tvg-id="GoldenPr" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://oaktvpro.club:8080/images/276682747b9b0212b40edb97734cb51a.png" group-title="CINE PREMIUM",GOLDEN PREMIER HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3509
+#EXTINF:-1 tvg-id="HBO2.lat" tvg-name="HBO 2 HD" tvg-logo="http://oaktvpro.club:8080/images/1698b33f46641162b8c6678e668fb36d.png" group-title="CINE PREMIUM",HBO 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3512
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 FHD" tvg-logo="http://oaktvpro.club:8080/images/1698b33f46641162b8c6678e668fb36d.png" group-title="CINE PREMIUM",HBO 2 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/97266
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO FAMILY HD" tvg-logo="http://oaktvpro.club:8080/images/2853bbda26601aacbefb042b066493fb.png" group-title="CINE PREMIUM",HBO FAMILY HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3513
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO FAMILY FHD" tvg-logo="http://oaktvpro.club:8080/images/2853bbda26601aacbefb042b066493fb.png" group-title="CINE PREMIUM",HBO FAMILY FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/98108
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO HD" tvg-logo="http://oaktvpro.club:8080/images/5017405d9545062577e4d27a331940ba.png" group-title="CINE PREMIUM",HBO HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3511
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO FHD" tvg-logo="http://oaktvpro.club:8080/images/5017405d9545062577e4d27a331940ba.png" group-title="CINE PREMIUM",HBO FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/3540
+#EXTINF:-1 tvg-id="HBO2.lat" tvg-name="HBO Latino HD" tvg-logo="http://oaktvpro.club:8080/images/e8aabd771c9ddd2fd7b730b15c0e003d.png" group-title="CINE PREMIUM",HBO Latino HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3514
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi" tvg-logo="http://oaktvpro.club:8080/images/5e3513fedc2f1dc8181740cc47dcd99e.png" group-title="CINE PREMIUM",HBO Mundi
+http://oaktvpro.club:8080/992879023/B2005CC1/3515
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO PLUS  HD" tvg-logo="http://oaktvpro.club:8080/images/731efb30a83f849b9fa1fee910750ba1.png" group-title="CINE PREMIUM",HBO PLUS  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3516
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO POP HD" tvg-logo="http://oaktvpro.club:8080/images/56bc1518eccca8948744bc91945295bd.png" group-title="CINE PREMIUM",HBO POP HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3517
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO SIGNATURE HD" tvg-logo="http://oaktvpro.club:8080/images/c9b21fa91159e2b7d641afed20f7d80e.png" group-title="CINE PREMIUM",HBO SIGNATURE HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3518
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://oaktvpro.club:8080/images/c9b21fa91159e2b7d641afed20f7d80e.png" group-title="CINE PREMIUM",HBO SIGNATURE FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/98122
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme HD" tvg-logo="http://oaktvpro.club:8080/images/02dc00716b630144e6913f015f3ab044.png" group-title="CINE PREMIUM",HBO Xtreme HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3519
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme FHD" tvg-logo="http://oaktvpro.club:8080/images/02dc00716b630144e6913f015f3ab044.png" group-title="CINE PREMIUM",HBO Xtreme FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/97265
+#EXTINF:-1 tvg-id="Az Cine" tvg-name="MX: AZ Cinema" tvg-logo="http://oaktvpro.club:8080/images/bfaeba2d256a1bbf7085052d8376d7e3.png" group-title="CINE PREMIUM",MX: AZ Cinema
+http://oaktvpro.club:8080/992879023/B2005CC1/3536
+#EXTINF:-1 tvg-id="510dtv.cl" tvg-name="PARAMOUNT CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/a8ac3ece61bd0e9996fc1530c6793009.png" group-title="CINE PREMIUM",PARAMOUNT CHANEL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3520
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="SONY HD" tvg-logo="http://oaktvpro.club:8080/images/e1104d685cd235f23bebade8e34468bd.png" group-title="CINE PREMIUM",SONY HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3521
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="SPACE CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/823256fe15fe6cba8860afa9e0b78c0b.png" group-title="CINE PREMIUM",SPACE CHANEL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3522
+#EXTINF:-1 tvg-id="204dtv.ar" tvg-name="STAR CHANNEL  HD" tvg-logo="http://oaktvpro.club:8080/images/0f0c2eee1f2c9c9a7c4f4e6ce39601b4.png" group-title="CINE PREMIUM",STAR CHANNEL  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3523
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="STUDIO UNIVERSAL  HD" tvg-logo="http://oaktvpro.club:8080/images/0d3cc402dc62130d09be191bb79579fc.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3524
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM  HD" tvg-logo="http://oaktvpro.club:8080/images/58271f60832c24588e2bf13ab9e10cf1.png" group-title="CINE PREMIUM",TCM  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3525
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT HD" tvg-logo="http://oaktvpro.club:8080/images/dfb77b3e4bb2bc5b9dae20b1bd1737d8.png" group-title="CINE PREMIUM",TNT HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3526
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT SERIES  HD" tvg-logo="http://oaktvpro.club:8080/images/1118c32cb70f8fb2f56b87c106d6f055.png" group-title="CINE PREMIUM",TNT SERIES  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3527
+#EXTINF:-1 tvg-id="218dtv.cl" tvg-name="UNIVERSAL CHANNEL  HD" tvg-logo="http://oaktvpro.club:8080/images/7c55637e5b05e66469906370dc7f2ae8.png" group-title="CINE PREMIUM",UNIVERSAL CHANNEL  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3529
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="UNIVERSAL CINEMA" tvg-logo="http://oaktvpro.club:8080/images/9ecae07cfe3092569764d1fca5a117e6.png" group-title="CINE PREMIUM",UNIVERSAL CINEMA
+http://oaktvpro.club:8080/992879023/B2005CC1/3530
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://oaktvpro.club:8080/images/a387ea588c316ff1a5f5df40622f6dc3.png" group-title="CINE PREMIUM",UNIVERSAL COMEDY HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3531
+#EXTINF:-1 tvg-id="UnivCrim" tvg-name="UNIVERSAL CRIMEN HD" tvg-logo="http://oaktvpro.club:8080/images/2c37796b8af1ad696864de8c471a0596.jpg" group-title="CINE PREMIUM",UNIVERSAL CRIMEN HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3532
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="UNIVERSAL PREMIER HD" tvg-logo="http://oaktvpro.club:8080/images/97f6d146132998757fa3d2e034194c69.png" group-title="CINE PREMIUM",UNIVERSAL PREMIER HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3533
+#EXTINF:-1 tvg-id="UnivReal" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://oaktvpro.club:8080/images/d7f5b1ff49499e684f2b56ec0f8ad6d4.png" group-title="CINE PREMIUM",UNIVERSAL REALITY HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3534
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER HD" tvg-logo="http://oaktvpro.club:8080/images/8fef9c51c148c2bda0b9c7e64d6e6e7e.png" group-title="CINE PREMIUM",WARNER HD
+http://oaktvpro.club:8080/992879023/B2005CC1/3535
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER FHD" tvg-logo="http://oaktvpro.club:8080/images/8fef9c51c148c2bda0b9c7e64d6e6e7e.png" group-title="CINE PREMIUM",WARNER FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/97264
+#EXTINF:-1 tvg-id="Baby Firts" tvg-name="BABY FIRTS" tvg-logo="http://oaktvpro.club:8080/images/0255b590a37b93f1455a5c643caa4c09.png" group-title=" INFANTIL",BABY FIRTS
+http://oaktvpro.club:8080/992879023/B2005CC1/5470
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BABY TV HD" tvg-logo="http://oaktvpro.club:8080/images/d4ca4b74700d1e4cacffc1ff9c7f4a50.png" group-title=" INFANTIL",BABY TV HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5471
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="http://oaktv.pro:8080/images/1eaf598f1204f2779a66d12c7b7bc14e.png" group-title=" INFANTIL",BOOMERANG HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5472
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="CARTOON NETWORK HD" tvg-logo="http://oaktvpro.club:8080/images/f15eb23dd2b38cc112d083131f6104ae.png" group-title=" INFANTIL",CARTOON NETWORK HD
+http://oaktvpro.club:8080/992879023/B2005CC1/17575
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="CARTOONITO HD" tvg-logo="http://oaktvpro.club:8080/images/a5559c91265601b6d3f6096151a6fbb3.png" group-title=" INFANTIL",CARTOONITO HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5473
+#EXTINF:-1 tvg-id="330dtv.co" tvg-name="DISCOVERY KIDS  HD" tvg-logo="http://oaktvpro.club:8080/images/6c8463be5d69521692c3f7f0de6123dc.png" group-title=" INFANTIL",DISCOVERY KIDS  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/17576
+#EXTINF:-1 tvg-id="314dtv.co" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://oaktvpro.club:8080/images/6a74e145e925143f663b410f9f1a756c.png" group-title=" INFANTIL",DISNEY CHANNEL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/17577
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="DISNEY JR HD" tvg-logo="http://oaktvpro.club:8080/images/843ab947cb4d3ccfc498dae43a9df626.png" group-title=" INFANTIL",DISNEY JR HD
+http://oaktvpro.club:8080/992879023/B2005CC1/17578
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 HD" tvg-logo="http://oaktv.pro:8080/images/d603ee2e1236c5e2c520e4badf4e6a61.png" group-title=" INFANTIL",NICK 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5475
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="NICK HD" tvg-logo="http://oaktvpro.club:8080/images/d603ee2e1236c5e2c520e4badf4e6a61.png" group-title=" INFANTIL",NICK HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5476
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="NICK JR HD" tvg-logo="http://oaktvpro.club:8080/images/d9de3420ee5ed37c7430fa23e32f2468.png" group-title=" INFANTIL",NICK JR HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5477
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="NICKELODEON HD" tvg-logo="http://oaktvpro.club:8080/images/39c7df4ac1f024c0585a2b00a80e3001.png" group-title=" INFANTIL",NICKELODEON HD
+http://oaktvpro.club:8080/992879023/B2005CC1/17579
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS HD" tvg-logo="http://oaktv.pro:8080/images/73d3ee27ebd458ab73514ac14a8a6968.png" group-title=" INFANTIL",NICKTOONS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5478
+
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="http://oaktvpro.club:8080/images/0329b07a65ab68891606b075508e9262.png" group-title="DEPORTE EUROPEO",DAZN 1
+http://oaktvpro.club:8080/992879023/B2005CC1/3478
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="http://oaktvpro.club:8080/images/99887564c62ca575f01d5b0ad0c32b5d.png" group-title="DEPORTE EUROPEO",DAZN 2
+http://oaktvpro.club:8080/992879023/B2005CC1/3479
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="http://oaktvpro.club:8080/images/3d273dce5efba2acb75f2ca19c1e2a56.png" group-title="DEPORTE EUROPEO",DAZN 3
+http://oaktvpro.club:8080/992879023/B2005CC1/3492
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4" tvg-logo="http://oaktvpro.club:8080/images/fa3ce4dcfbd7cf57a4038b56de566d25.png" group-title="DEPORTE EUROPEO",DAZN 4
+http://oaktvpro.club:8080/992879023/B2005CC1/3493
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="TOONCAST HD" tvg-logo="http://oaktvpro.club:8080/images/b8ae49a207491be7d4ca997c8bb0dd06.png" group-title=" INFANTIL",TOONCAST HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5479
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="DISNEY JR FHD" tvg-logo="http://oaktvpro.club:8080/images/843ab947cb4d3ccfc498dae43a9df626.png" group-title=" INFANTIL",DISNEY JR FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/97263
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="CARTOONITO FHD" tvg-logo="http://oaktvpro.club:8080/images/a5559c91265601b6d3f6096151a6fbb3.png" group-title=" INFANTIL",CARTOONITO FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/133016
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="ANIMAL Planet HD" tvg-logo="http://oaktvpro.club:8080/images/444083b3edf2d96086ea26fd583cd366.png" group-title=" DOCUMENTALES",ANIMAL Planet HD
+http://oaktvpro.club:8080/992879023/B2005CC1/81026
+#EXTINF:-1 tvg-id="CanalCocina" tvg-name="CANAL COCINA HD." tvg-logo="http://oaktvpro.club:8080/images/6945978f4d764e1fccf5f9c14749f66d.JPG" group-title=" DOCUMENTALES",CANAL COCINA HD.
+http://oaktvpro.club:8080/992879023/B2005CC1/5679
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-name="Discovery Channel HD" tvg-logo="http://oaktvpro.club:8080/images/567be101797359d575fb482648ec3d2f.png" group-title=" DOCUMENTALES",Discovery Channel HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5671
+#EXTINF:-1 tvg-id="DiscFmlia.Lat" tvg-name="Discovery Familia HD" tvg-logo="http://oaktvpro.club:8080/images/49f82bc18371384f4c815acf24292bd8.png" group-title=" DOCUMENTALES",Discovery Familia HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5674
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="DISCOVERY Science" tvg-logo="http://oaktvpro.club:8080/images/cdbc777e75d0dd2a661aa968ba32b266.png" group-title=" DOCUMENTALES",DISCOVERY Science
+http://oaktvpro.club:8080/992879023/B2005CC1/5672
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="DISCOVERY Turbo HD" tvg-logo="http://oaktvpro.club:8080/images/4de6086712bd9de1964c46571de7cee6.png" group-title=" DOCUMENTALES",DISCOVERY Turbo HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5673
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! Entretainment HD" tvg-logo="http://oaktvpro.club:8080/images/28acf2ed453c9bc6c150960f950ebf53.png" group-title=" DOCUMENTALES",E! Entretainment HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5678
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="History 2 HD" tvg-logo="http://oaktvpro.club:8080/images/be6b5f67442f9b48a68498c0e6819cc3.PNG" group-title=" DOCUMENTALES",History 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5676
+#EXTINF:-1 tvg-id="742dtv.cl" tvg-name="HISTORY HD" tvg-logo="http://oaktvpro.club:8080/images/358f25cf5a5b80b2f4c193856ba0ceb1.png" group-title=" DOCUMENTALES",HISTORY HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5675
+#EXTINF:-1 tvg-id="221dtv.cl" tvg-name="HOLA! TV" tvg-logo="http://oaktvpro.club:8080/images/7170f6dba6100a4524c574741382c378.jpg" group-title=" DOCUMENTALES",HOLA! TV
+http://oaktvpro.club:8080/992879023/B2005CC1/5681
+#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="LIFETIME HD" tvg-logo="http://oaktvpro.club:8080/images/f146abc1b71a5926a83d319a7d6d0279.png" group-title=" DOCUMENTALES",LIFETIME HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5682
+#EXTINF:-1 tvg-id="NtGeo" tvg-name="NATGEO WILD HD" tvg-logo="http://oaktvpro.club:8080/images/6a9f6c0a61f7afbc3bb08b0b59d28c79.png" group-title=" DOCUMENTALES",NATGEO WILD HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5677
+#EXTINF:-1 tvg-id="651dtv.ar" tvg-name="TLC HD" tvg-logo="http://oaktvpro.club:8080/images/e8f96ce2f3062f3eb65b2e41af3be79e.png" group-title=" DOCUMENTALES",TLC HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5680
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NATIONAL Geographic HD ." tvg-logo="http://oaktvpro.club:8080/images/70ea0a456f4a91358d81255769e87275.png" group-title=" DOCUMENTALES",NATIONAL Geographic HD .
+http://oaktvpro.club:8080/992879023/B2005CC1/92882
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="http://oaktvpro.club:8080/images/e815f0f5c238df2eead243745cfbf347.png" group-title=" DOCUMENTALES",Love Nature HD
+http://oaktvpro.club:8080/992879023/B2005CC1/129675
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTE EUROPEO",M+ LIGA DE CAMPEONES HD
+http://oaktvpro.club:8080/992879023/B2005CC1/93024
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ LIGA DE CAMPEONES FHD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTE EUROPEO",M+ LIGA DE CAMPEONES FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/127878
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",ELEVEN SPORT
+http://oaktvpro.club:8080/992879023/B2005CC1/86624
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+ LIGA DE CAMPEONES FHD OP B" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTE EUROPEO",ES | M+ LIGA DE CAMPEONES FHD OP B
+http://oaktvpro.club:8080/992879023/B2005CC1/66157
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="ES | M+LIGA DE CAMPEONES 2" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTE EUROPEO",ES | M+LIGA DE CAMPEONES 2
+http://oaktvpro.club:8080/992879023/B2005CC1/66159
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="ES | M+LIGA DE CAMPEONES 2 FHD" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTE EUROPEO",ES | M+LIGA DE CAMPEONES 2 FHD
+http://oaktvpro.club:8080/992879023/B2005CC1/66158
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES | M+LIGA DE CAMPEONES 3" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTE EUROPEO",ES | M+LIGA DE CAMPEONES 3
+http://oaktvpro.club:8080/992879023/B2005CC1/66160
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES | M+LIGA DE CAMPEONES 3 HD" tvg-logo="http://oaktvpro.club:8080/images/7de5dc50cdfa328461468862bbd44623.png" group-title="DEPORTE EUROPEO",ES | M+LIGA DE CAMPEONES 3 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/66161
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+LIGA DE CAMPEONES HD" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTE EUROPEO",ES | M+LIGA DE CAMPEONES HD
+http://oaktvpro.club:8080/992879023/B2005CC1/66155
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES | M+LIGA DE CAMPEONES HD OP B" tvg-logo="http://oaktvpro.club:8080/images/99be91125e2ef4b3c546ae82106adcc1.png" group-title="DEPORTE EUROPEO",ES | M+LIGA DE CAMPEONES HD OP B
+http://oaktvpro.club:8080/992879023/B2005CC1/66156
+
+#EXTINF:-1 tvg-id="SkySports.mx" tvg-name="SKY SPORTS MX" tvg-logo="http://oaktvpro.club:8080/images/8fcce50f392a6fab43f30d3af609d4e3.png" group-title="DEPORTE EUROPEO",SKY SPORTS MX
+http://oaktvpro.club:8080/992879023/B2005CC1/7104
+#EXTINF:-1 tvg-id="clarosports.cl" tvg-name="LAT | CLARO SPORTS HD" tvg-logo="http://oaktvpro.club:8080/images/fe027c0ced23bc4c2f156d7b5f2208b2.png" group-title="DEPORTES GENERAL",LAT | CLARO SPORTS HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7106
+#EXTINF:-1 tvg-id="612directv.cl" tvg-name="LAT | DIRECTV SPORTS 2 HD" tvg-logo="http://oaktvpro.club:8080/images/41518b274d35f23dae4857e145b426a1.png" group-title="DEPORTES GENERAL",LAT | DIRECTV SPORTS 2 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7085
+#EXTINF:-1 tvg-id="179directv.cl" tvg-name="LAT | DIRECTV SPORTS HD +" tvg-logo="http://oaktvpro.club:8080/images/d405415b6aad35c40dc9c48dde640dcf.png" group-title="DEPORTES GENERAL",LAT | DIRECTV SPORTS HD +
+http://oaktvpro.club:8080/992879023/B2005CC1/7086
+#EXTINF:-1 tvg-id="1621dtv.co" tvg-name="LAT | ESPN 1  HD" tvg-logo="http://oaktvpro.club:8080/images/586c62e56d139ad91c9624e9575098c5.png" group-title="DEPORTES GENERAL",LAT | ESPN 1  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7091
+#EXTINF:-1 tvg-id="622dtv.co" tvg-name="LAT | ESPN 2  HD" tvg-logo="http://oaktvpro.club:8080/images/e05728e124de78875ead63f8e70cfeca.png" group-title="DEPORTES GENERAL",LAT | ESPN 2  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7089
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="LAT | ESPN 3  HD" tvg-logo="http://oaktvpro.club:8080/images/f1fb8b0fe4696b5f37f2056e7559deea.png" group-title="DEPORTES GENERAL",LAT | ESPN 3  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7088
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="LAT | FOX SPORTS 1  HD" tvg-logo="http://oaktvpro.club:8080/images/11a73bece1d00e94d41827465226bb9f.png" group-title="DEPORTES GENERAL",LAT | FOX SPORTS 1  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7096
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="LAT | FOX SPORTS 2  HD" tvg-logo="http://oaktvpro.club:8080/images/5560ebd75c3915a36d19bcd28c234c43.png" group-title="DEPORTES GENERAL",LAT | FOX SPORTS 2  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7094
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="LAT | FOX SPORTS 3 HD" tvg-logo="http://oaktvpro.club:8080/images/4057886b3a7eff79e2089dba35f95b1e.png" group-title="DEPORTES GENERAL",LAT | FOX SPORTS 3 HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7093
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="LAT | FOX SPORTS PREMIUM HD" tvg-logo="http://oaktvpro.club:8080/images/9d6d33f4d19bd1497125777cd1b56729.png" group-title="DEPORTES GENERAL",LAT | FOX SPORTS PREMIUM HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7102
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="LAT | TNT SPORTS HD AR" tvg-logo="http://oaktvpro.club:8080/images/32ca71ad42fca72ff72f4001fa0f4e15.png" group-title="DEPORTES GENERAL",LAT | TNT SPORTS HD AR
+http://oaktvpro.club:8080/992879023/B2005CC1/7098
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="LAT | TYC SPORTS  HD" tvg-logo="http://oaktvpro.club:8080/images/aea10b442b97eeefcaf68e03a30dda1f.png" group-title="DEPORTES GENERAL",LAT | TYC SPORTS  HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7101
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="LAT | TYC SPORTS  INTERNACIONAL HD" tvg-logo="http://oaktvpro.club:8080/images/aea10b442b97eeefcaf68e03a30dda1f.png" group-title="DEPORTES GENERAL",LAT | TYC SPORTS  INTERNACIONAL HD
+http://oaktvpro.club:8080/992879023/B2005CC1/7099
+#EXTINF:-1 tvg-id="628dtv.cl" tvg-name="LAT: GOLF CHANNEL LATINOAMERICA ©️" tvg-logo="http://oaktvpro.club:8080/images/9cdf7093e5c42c91a1c8d8c35f24fa5b.png" group-title="DEPORTES GENERAL",LAT: GOLF CHANNEL LATINOAMERICA ©️
+http://oaktvpro.club:8080/992879023/B2005CC1/7108
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",MUTV
+http://oaktvpro.club:8080/992879023/B2005CC1/86625
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-name="MX | AFIZZIONADOS" tvg-logo="http://oaktvpro.club:8080/images/78f0d7947217659b7951a851af919bc0.png" group-title="DEPORTES GENERAL",MX | AFIZZIONADOS
+http://oaktvpro.club:8080/992879023/B2005CC1/7105
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 2" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",PREMIER LEAGUE 2
+http://oaktvpro.club:8080/992879023/B2005CC1/86621
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 3" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",PREMIER LEAGUE 3
+http://oaktvpro.club:8080/992879023/B2005CC1/86622
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE 4" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",PREMIER LEAGUE 4
+http://oaktvpro.club:8080/992879023/B2005CC1/86623
+#EXTINF:-1 tvg-id="" tvg-name="Premier League Es" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",Premier League Es
+http://oaktvpro.club:8080/992879023/B2005CC1/86620
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE Full HD" tvg-logo="https://radiosecuador.online/dyhz" group-title="PREMIER LEAGUE",PREMIER LEAGUE Full HD
+http://oaktvpro.club:8080/992879023/B2005CC1/86619
+
+
