@@ -59,3 +59,76 @@ http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/235535
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX (OPC-3)" tvg-logo="https://i.postimg.cc/FR90yQ1J/liga-1-max.png" group-title="PERU",LIGA 1 MAX (OPC-3)
 http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/235536
 
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Baby TV 漏" tvg-logo="https://i.postimg.cc/fWxrX3N2/babyfirst.png" group-title="INFANTILES PREMIUM",Infantil: Baby TV 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29394
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="Infantil: Baby First" tvg-logo="https://i.postimg.cc/fWxrX3N2/babyfirst.png" group-title="INFANTILES PREMIUM",Infantil: Baby First
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29395
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoonito (MX)" tvg-logo="https://i.postimg.cc/9fKnPZ0S/cartoonito.png" group-title="INFANTILES PREMIUM",Infantil: Cartoonito (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29396
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoonito" tvg-logo="https://i.postimg.cc/9fKnPZ0S/cartoonito.png" group-title="INFANTILES PREMIUM",Infantil: Cartoonito
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29397
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network (CO) 漏" tvg-logo="https://i.postimg.cc/XvpPyQjd/cartoon-network.png" group-title="INFANTILES PREMIUM",Infantil: Cartoon Network (CO) 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29399
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network (MX) 漏" tvg-logo="https://i.postimg.cc/XvpPyQjd/cartoon-network.png" group-title="INFANTILES PREMIUM",Infantil: Cartoon Network (MX) 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29401
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Discovery Kids (CO) 漏" tvg-logo="https://i.postimg.cc/MTBr9HjG/discovery-kids.png" group-title="INFANTILES PREMIUM",Infantil: Discovery Kids (CO) 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29404
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Discovery Kids HD 漏" tvg-logo="https://i.postimg.cc/MTBr9HjG/discovery-kids.png" group-title="INFANTILES PREMIUM",Infantil: Discovery Kids HD 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29406
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel (CO) 漏" tvg-logo="https://i.postimg.cc/TY0N7Zhn/disney-channel.png" group-title="INFANTILES PREMIUM",Infantil: Disney Channel (CO) 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29410
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel Full HD (CO)" tvg-logo="https://i.postimg.cc/TY0N7Zhn/disney-channel.png" group-title="INFANTILES PREMIUM",Infantil: Disney Channel Full HD (CO)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29411
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel (MX)" tvg-logo="https://i.postimg.cc/TY0N7Zhn/disney-channel.png" group-title="INFANTILES PREMIUM",Infantil: Disney Channel (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29412
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel Full HD (MX)" tvg-logo="https://i.postimg.cc/TY0N7Zhn/disney-channel.png" group-title="INFANTILES PREMIUM",Infantil: Disney Channel Full HD (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29413
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Junior (MX) 漏" tvg-logo="https://i.postimg.cc/Hn4vCNzD/disney-junior.png" group-title="INFANTILES PREMIUM",Infantil: Disney Junior (MX) 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29415
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Junior Full HD (MX)" tvg-logo="https://i.postimg.cc/Hn4vCNzD/disney-junior.png" group-title="INFANTILES PREMIUM",Infantil: Disney Junior Full HD (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29416
+#EXTINF:-1 tvg-id="" tvg-name="Baby First Tv" tvg-logo="https://i.postimg.cc/fWxrX3N2/babyfirst.png" group-title="INFANTILES PREMIUM",Baby First Tv
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29419
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon (CO) 漏" tvg-logo="https://i.postimg.cc/pXR1B2V2/nickelodeon.png" group-title="INFANTILES PREMIUM",Infantil: Nickelodeon (CO) 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29421
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon Full HD (CO)" tvg-logo="https://i.postimg.cc/pXR1B2V2/nickelodeon.png" group-title="INFANTILES PREMIUM",Infantil: Nickelodeon Full HD (CO)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29422
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon (MX)" tvg-logo="https://i.postimg.cc/pXR1B2V2/nickelodeon.png" group-title="INFANTILES PREMIUM",Infantil: Nickelodeon (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29423
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon Full HD (MX)" tvg-logo="https://i.postimg.cc/pXR1B2V2/nickelodeon.png" group-title="INFANTILES PREMIUM",Infantil: Nickelodeon Full HD (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29424
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr Full HD (CO)" tvg-logo="https://i.postimg.cc/j2r3mTz4/nick-jr.png" group-title="INFANTILES PREMIUM",Infantil: Nick Jr Full HD (CO)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29427
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr 漏" tvg-logo="https://i.postimg.cc/j2r3mTz4/nick-jr.png" group-title="INFANTILES PREMIUM",Infantil: Nick Jr 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29429
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Tooncast (CO)" tvg-logo="https://i.postimg.cc/bvD6vrgR/tooncast.png" group-title="INFANTILES PREMIUM",Infantil: Tooncast (CO)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29430
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Tooncast (MX)" tvg-logo="https://i.postimg.cc/bvD6vrgR/tooncast.png" group-title="INFANTILES PREMIUM",Infantil: Tooncast (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29431
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Toons (MX)" tvg-logo="https://i.postimg.cc/W14WQXJC/nicktoons.png" group-title="INFANTILES PREMIUM",Infantil: Nick Toons (MX)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29432
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoonito (MOVIL)" tvg-logo="https://i.postimg.cc/9fKnPZ0S/cartoonito.png" group-title="INFANTILES PREMIUM",Infantil: Cartoonito (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29434
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network (MOVIL)" tvg-logo="https://i.postimg.cc/XvpPyQjd/cartoon-network.png" group-title="INFANTILES PREMIUM",Infantil: Cartoon Network (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29435
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel (MOVIL)" tvg-logo="https://i.postimg.cc/TY0N7Zhn/disney-channel.png" group-title="INFANTILES PREMIUM",Infantil: Disney Channel (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29436
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Junior (MOVIL)" tvg-logo="https://i.postimg.cc/Hn4vCNzD/disney-junior.png" group-title="INFANTILES PREMIUM",Infantil: Disney Junior (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29437
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Tooncast (MOVIL)" tvg-logo="https://i.postimg.cc/bvD6vrgR/tooncast.png" group-title="INFANTILES PREMIUM",Infantil: Tooncast (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29439
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr (MOVIL)" tvg-logo="https://i.postimg.cc/j2r3mTz4/nick-jr.png" group-title="INFANTILES PREMIUM",Infantil: Nick Jr (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29441
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon (MOVIL)" tvg-logo="https://i.postimg.cc/pXR1B2V2/nickelodeon.png" group-title="INFANTILES PREMIUM",Infantil: Nickelodeon (MOVIL)
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/29442
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Semillitas 漏" tvg-logo="https://i.postimg.cc/4dpBz0r7/semillitas.png" group-title="INFANTILES PREMIUM",Infantil: Semillitas 漏
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/67395
+#EXTINF:-1 tvg-id="" tvg-name="Happy Halloween Kids HD" tvg-logo="https://i.postimg.cc/MGC9fwrJ/Happy-Halloween-Kids.png" group-title="INFANTILES PREMIUM",Happy Halloween Kids HD
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/119568
+#EXTINF:-1 tvg-id="" tvg-name="PAKAPAKA" tvg-logo="https://i.postimg.cc/P5F3hYWx/paka-paka.png" group-title="INFANTILES PREMIUM",PAKAPAKA
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/187245
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="https://i.postimg.cc/4dpBz0r7/semillitas.png" group-title="INFANTILES PREMIUM",SEMILLITAS
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/187246
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://i.postimg.cc/9fKnPZ0S/cartoonito.png" group-title="INFANTILES PREMIUM",CARTOONITO
+http://digitaltv.pro:2082/TVMAS000372/BhDYnDqMBR/187247
+
